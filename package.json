@@ -1,0 +1,26 @@
+{
+  "name": "pagespeed-compare",
+  "version": "1.0.0",
+  "description": "PageSpeed monitoring system with Lighthouse that compares scores against baseline",
+  "main": "scripts/run.js",
+  "scripts": {
+    "test": "node scripts/run.js",
+    "update-baseline": "node scripts/run.js --update-baseline",
+    "test-url": "node scripts/run.js --url"
+  },
+  "keywords": [
+    "pagespeed",
+    "lighthouse",
+    "performance",
+    "monitoring"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "lighthouse": "^11.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

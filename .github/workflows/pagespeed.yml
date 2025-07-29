@@ -1,0 +1,49 @@
+name: PageSpeed Monitor
+
+on:
+  schedule:
+    - cron: "0 2 * * 1" # Every Monday at 2 AM UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  pagespeed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: |
+          npm install
+          npm install -g lighthouse
+
+      - name: Run PageSpeed script
+        run: node scripts/run.js
+
+      - name: Commit & push report
+        run: |
+          git config --global user.name "pagespeed-bot"
+          git config --global user.email "pagespeed@users.noreply.github.com"
+          git add baseline/ latest/ reports/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update PageSpeed reports"
+            git push
+          fi
+
+      - name: Upload reports as artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pagespeed-reports
+          path: reports/
+          retention-days: 30
