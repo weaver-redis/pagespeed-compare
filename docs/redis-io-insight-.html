@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PageSpeed Report - https://redis.io/insight/</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { background: #f5f5f5; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+        .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
+        .metric { border: 1px solid #ddd; padding: 15px; border-radius: 5px; }
+        .score.good { color: #0c7e3e; font-weight: bold; }
+        .score.needs-improvement { color: #e67e22; font-weight: bold; }
+        .score.poor { color: #d93025; font-weight: bold; }
+        .positive { color: #0c7e3e; font-weight: bold; }
+        .negative { color: #d93025; font-weight: bold; }
+        .neutral { color: #666; }
+        .timestamp { color: #666; font-size: 0.9em; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #f5f5f5; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>PageSpeed Report</h1>
+        <h2>https://redis.io/insight/</h2>
+        <p class="timestamp">Generated: 2025-07-29T05:05:18.210Z</p>
+        <p>Based on 3 Lighthouse runs (averaged)</p>
+    </div>
+
+    <div class="metrics">
+        <div class="metric">
+            <h3>Performance</h3>
+            <p>Current: <span class="score needs-improvement">81</span></p>
+            <p>Baseline: <span class="score needs-improvement">58</span></p>
+            <p>Delta: <span class="positive">+23</span></p>
+        </div>
+        <div class="metric">
+            <h3>Accessibility</h3>
+            <p>Current: <span class="score good">100</span></p>
+            <p>Baseline: <span class="score needs-improvement">76</span></p>
+            <p>Delta: <span class="positive">+24</span></p>
+        </div>
+        <div class="metric">
+            <h3>Best Practices</h3>
+            <p>Current: <span class="score needs-improvement">74</span></p>
+            <p>Baseline: <span class="score needs-improvement">74</span></p>
+            <p>Delta: <span class="neutral">0</span></p>
+        </div>
+        <div class="metric">
+            <h3>SEO</h3>
+            <p>Current: <span class="score good">100</span></p>
+            <p>Baseline: <span class="score needs-improvement">71</span></p>
+            <p>Delta: <span class="positive">+29</span></p>
+        </div>
+    </div>
+
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Metric</th>
+                <th>Baseline</th>
+                <th>Current</th>
+                <th>Change</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Performance</td>
+                <td><span class="score needs-improvement">58</span></td>
+                <td><span class="score needs-improvement">81</span></td>
+                <td><span class="positive">+23</span></td>
+            </tr>
+            <tr>
+                <td>Accessibility</td>
+                <td><span class="score needs-improvement">76</span></td>
+                <td><span class="score good">100</span></td>
+                <td><span class="positive">+24</span></td>
+            </tr>
+            <tr>
+                <td>Best Practices</td>
+                <td><span class="score needs-improvement">74</span></td>
+                <td><span class="score needs-improvement">74</span></td>
+                <td><span class="neutral">0</span></td>
+            </tr>
+            <tr>
+                <td>SEO</td>
+                <td><span class="score needs-improvement">71</span></td>
+                <td><span class="score good">100</span></td>
+                <td><span class="positive">+29</span></td>
+            </tr>
+        </tbody>
+    </table>
+    
+</body>
+</html>

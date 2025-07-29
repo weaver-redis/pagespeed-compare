@@ -6,7 +6,8 @@
   "scripts": {
     "test": "node scripts/run.js",
     "update-baseline": "node scripts/run.js --update-baseline",
-    "test-url": "node scripts/run.js --url"
+    "test-url": "node scripts/run.js --url",
+    "generate-pages": "node scripts/generate-index.js"
   },
   "keywords": [
     "pagespeed",

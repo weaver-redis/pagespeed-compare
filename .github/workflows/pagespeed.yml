@@ -30,15 +30,18 @@ jobs:
       - name: Run PageSpeed script
         run: node scripts/run.js
 
+      - name: Generate GitHub Pages content
+        run: node scripts/generate-index.js
+
       - name: Commit & push report
         run: |
           git config --global user.name "pagespeed-bot"
           git config --global user.email "pagespeed@users.noreply.github.com"
-          git add baseline/ latest/ reports/
+          git add baseline/ latest/ reports/ docs/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update PageSpeed reports"
+            git commit -m "chore: update PageSpeed reports and dashboard"
             git push
           fi
 
