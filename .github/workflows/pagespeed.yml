@@ -8,6 +8,8 @@ on:
 jobs:
   pagespeed:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow writing to repository
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
