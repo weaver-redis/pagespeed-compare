@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/resources/",
   "runs": 3,
-  "performance": 33,
+  "performance": 34,
   "accessibility": 88,
   "bestPractices": 78,
   "seo": 86,
-  "timestamp": "2025-08-05T08:55:07.599Z",
+  "timestamp": "2025-08-06T08:55:47.145Z",
   "rawResults": [
     {
       "performance": 33,
       "accessibility": 88,
       "bestPractices": 78,
       "seo": 86,
-      "timestamp": "2025-08-05T08:52:54.086Z"
+      "timestamp": "2025-08-06T08:53:33.653Z"
     },
     {
       "performance": 33,
       "accessibility": 88,
       "bestPractices": 78,
       "seo": 86,
-      "timestamp": "2025-08-05T08:54:00.848Z"
+      "timestamp": "2025-08-06T08:54:40.356Z"
     },
     {
-      "performance": 33,
+      "performance": 35,
       "accessibility": 88,
       "bestPractices": 78,
       "seo": 86,
-      "timestamp": "2025-08-05T08:55:07.599Z"
+      "timestamp": "2025-08-06T08:55:47.145Z"
     }
   ]
 }
