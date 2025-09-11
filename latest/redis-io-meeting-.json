@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/meeting/",
   "runs": 3,
-  "performance": 12,
+  "performance": 22,
   "accessibility": 100,
   "bestPractices": 74,
   "seo": 100,
-  "timestamp": "2025-09-10T08:31:55.450Z",
+  "timestamp": "2025-09-11T08:31:42.356Z",
   "rawResults": [
+    {
+      "performance": 31,
+      "accessibility": 100,
+      "bestPractices": 74,
+      "seo": 100,
+      "timestamp": "2025-09-11T08:29:18.304Z"
+    },
     {
       "performance": 5,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 100,
-      "timestamp": "2025-09-10T08:29:26.287Z"
+      "timestamp": "2025-09-11T08:30:30.793Z"
     },
     {
-      "performance": 4,
+      "performance": 29,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 100,
-      "timestamp": "2025-09-10T08:30:43.772Z"
-    },
-    {
-      "performance": 26,
-      "accessibility": 100,
-      "bestPractices": 74,
-      "seo": 100,
-      "timestamp": "2025-09-10T08:31:55.450Z"
+      "timestamp": "2025-09-11T08:31:42.356Z"
     }
   ]
 }
