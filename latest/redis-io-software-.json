@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/software/",
   "runs": 3,
-  "performance": 33,
+  "performance": 26,
   "accessibility": 100,
   "bestPractices": 74,
   "seo": 93,
-  "timestamp": "2025-10-23T08:40:36.470Z",
+  "timestamp": "2025-10-24T08:39:25.119Z",
   "rawResults": [
     {
-      "performance": 28,
+      "performance": 26,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 93,
-      "timestamp": "2025-10-23T08:38:13.980Z"
+      "timestamp": "2025-10-24T08:37:03.387Z"
     },
     {
-      "performance": 35,
+      "performance": 26,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 93,
-      "timestamp": "2025-10-23T08:39:24.981Z"
+      "timestamp": "2025-10-24T08:38:14.208Z"
     },
     {
-      "performance": 35,
+      "performance": 26,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 93,
-      "timestamp": "2025-10-23T08:40:36.470Z"
+      "timestamp": "2025-10-24T08:39:25.119Z"
     }
   ]
 }
