@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/lp/try1/",
   "runs": 3,
-  "performance": 36,
+  "performance": 35,
   "accessibility": 99,
   "bestPractices": 74,
   "seo": 93,
-  "timestamp": "2025-11-01T08:46:43.512Z",
+  "timestamp": "2025-11-02T08:45:45.624Z",
   "rawResults": [
     {
       "performance": 36,
       "accessibility": 99,
       "bestPractices": 74,
       "seo": 93,
-      "timestamp": "2025-11-01T08:44:24.798Z"
-    },
-    {
-      "performance": 36,
-      "accessibility": 99,
-      "bestPractices": 74,
-      "seo": 93,
-      "timestamp": "2025-11-01T08:45:34.289Z"
+      "timestamp": "2025-11-02T08:43:26.473Z"
     },
     {
       "performance": 35,
       "accessibility": 99,
       "bestPractices": 74,
       "seo": 93,
-      "timestamp": "2025-11-01T08:46:43.512Z"
+      "timestamp": "2025-11-02T08:44:36.126Z"
+    },
+    {
+      "performance": 35,
+      "accessibility": 99,
+      "bestPractices": 74,
+      "seo": 93,
+      "timestamp": "2025-11-02T08:45:45.624Z"
     }
   ]
 }
