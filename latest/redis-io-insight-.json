@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/insight/",
   "runs": 3,
-  "performance": 38,
+  "performance": 36,
   "accessibility": 100,
   "bestPractices": 74,
   "seo": 100,
-  "timestamp": "2025-12-07T08:41:28.721Z",
+  "timestamp": "2025-12-08T08:48:16.459Z",
   "rawResults": [
     {
-      "performance": 38,
+      "performance": 36,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 100,
-      "timestamp": "2025-12-07T08:39:15.755Z"
+      "timestamp": "2025-12-08T08:46:01.118Z"
     },
     {
-      "performance": 37,
+      "performance": 36,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 100,
-      "timestamp": "2025-12-07T08:40:22.366Z"
+      "timestamp": "2025-12-08T08:47:08.747Z"
     },
     {
-      "performance": 38,
+      "performance": 36,
       "accessibility": 100,
       "bestPractices": 74,
       "seo": 100,
-      "timestamp": "2025-12-07T08:41:28.721Z"
+      "timestamp": "2025-12-08T08:48:16.459Z"
     }
   ]
 }
