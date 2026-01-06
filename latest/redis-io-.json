@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/",
   "runs": 3,
-  "performance": 29,
+  "performance": 30,
   "accessibility": 98,
   "bestPractices": 52,
   "seo": 93,
-  "timestamp": "2026-01-05T08:33:04.767Z",
+  "timestamp": "2026-01-06T08:31:01.094Z",
   "rawResults": [
     {
-      "performance": 34,
+      "performance": 35,
       "accessibility": 98,
       "bestPractices": 52,
       "seo": 93,
-      "timestamp": "2026-01-05T08:30:24.518Z"
+      "timestamp": "2026-01-06T08:28:21.553Z"
     },
     {
       "performance": 27,
       "accessibility": 98,
       "bestPractices": 52,
       "seo": 93,
-      "timestamp": "2026-01-05T08:31:44.445Z"
+      "timestamp": "2026-01-06T08:29:41.680Z"
     },
     {
       "performance": 27,
       "accessibility": 98,
       "bestPractices": 52,
       "seo": 93,
-      "timestamp": "2026-01-05T08:33:04.767Z"
+      "timestamp": "2026-01-06T08:31:01.094Z"
     }
   ]
 }
