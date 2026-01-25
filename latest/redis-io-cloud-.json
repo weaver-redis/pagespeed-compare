@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/cloud/",
   "runs": 3,
-  "performance": 35,
+  "performance": 27,
   "accessibility": 100,
   "bestPractices": 56,
   "seo": 100,
-  "timestamp": "2026-01-24T08:37:46.355Z",
+  "timestamp": "2026-01-25T08:39:01.815Z",
   "rawResults": [
     {
-      "performance": 36,
+      "performance": 28,
       "accessibility": 100,
       "bestPractices": 56,
       "seo": 100,
-      "timestamp": "2026-01-24T08:35:21.467Z"
+      "timestamp": "2026-01-25T08:36:38.306Z"
     },
     {
-      "performance": 35,
+      "performance": 27,
       "accessibility": 100,
       "bestPractices": 56,
       "seo": 100,
-      "timestamp": "2026-01-24T08:36:33.964Z"
+      "timestamp": "2026-01-25T08:37:50.024Z"
     },
     {
-      "performance": 35,
+      "performance": 27,
       "accessibility": 100,
       "bestPractices": 56,
       "seo": 100,
-      "timestamp": "2026-01-24T08:37:46.355Z"
+      "timestamp": "2026-01-25T08:39:01.815Z"
     }
   ]
 }
