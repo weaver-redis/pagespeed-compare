@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/downloads/",
   "runs": 3,
-  "performance": 35,
+  "performance": 40,
   "accessibility": 89,
   "bestPractices": 56,
   "seo": 100,
-  "timestamp": "2026-05-03T09:44:07.623Z",
+  "timestamp": "2026-05-04T10:35:48.814Z",
   "rawResults": [
     {
-      "performance": 35,
+      "performance": 36,
       "accessibility": 89,
       "bestPractices": 56,
       "seo": 100,
-      "timestamp": "2026-05-03T09:41:45.614Z"
+      "timestamp": "2026-05-04T10:33:20.565Z"
     },
     {
-      "performance": 35,
+      "performance": 43,
       "accessibility": 89,
       "bestPractices": 56,
       "seo": 100,
-      "timestamp": "2026-05-03T09:42:56.429Z"
+      "timestamp": "2026-05-04T10:34:34.503Z"
     },
     {
-      "performance": 35,
+      "performance": 41,
       "accessibility": 89,
       "bestPractices": 56,
       "seo": 100,
-      "timestamp": "2026-05-03T09:44:07.623Z"
+      "timestamp": "2026-05-04T10:35:48.814Z"
     }
   ]
 }
