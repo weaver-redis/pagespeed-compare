@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/try-free/",
   "runs": 3,
-  "performance": 37,
+  "performance": 39,
   "accessibility": 100,
   "bestPractices": 56,
   "seo": 92,
-  "timestamp": "2026-08-19T08:39:11.469Z",
+  "timestamp": "2026-08-20T08:40:14.690Z",
   "rawResults": [
     {
-      "performance": 32,
+      "performance": 39,
       "accessibility": 100,
       "bestPractices": 56,
       "seo": 92,
-      "timestamp": "2026-08-19T08:37:06.746Z"
+      "timestamp": "2026-08-20T08:38:10.102Z"
     },
     {
-      "performance": 40,
+      "performance": 39,
       "accessibility": 100,
       "bestPractices": 56,
       "seo": 92,
-      "timestamp": "2026-08-19T08:38:08.984Z"
+      "timestamp": "2026-08-20T08:39:12.289Z"
     },
     {
-      "performance": 40,
+      "performance": 39,
       "accessibility": 100,
       "bestPractices": 56,
       "seo": 92,
-      "timestamp": "2026-08-19T08:39:11.469Z"
+      "timestamp": "2026-08-20T08:40:14.690Z"
     }
   ]
 }
