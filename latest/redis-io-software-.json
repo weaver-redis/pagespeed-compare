@@ -3,30 +3,30 @@
   "runs": 3,
   "performance": 29,
   "accessibility": 99,
-  "bestPractices": 56,
+  "bestPractices": 74,
   "seo": 85,
-  "timestamp": "2026-10-09T15:13:32.083Z",
+  "timestamp": "2026-10-10T14:28:44.454Z",
   "rawResults": [
     {
       "performance": 29,
       "accessibility": 99,
-      "bestPractices": 56,
+      "bestPractices": 74,
       "seo": 85,
-      "timestamp": "2026-10-09T15:11:12.909Z"
+      "timestamp": "2026-10-10T14:26:25.944Z"
     },
     {
       "performance": 29,
       "accessibility": 99,
-      "bestPractices": 56,
+      "bestPractices": 74,
       "seo": 85,
-      "timestamp": "2026-10-09T15:12:22.544Z"
+      "timestamp": "2026-10-10T14:27:35.288Z"
     },
     {
       "performance": 29,
       "accessibility": 99,
-      "bestPractices": 56,
+      "bestPractices": 74,
       "seo": 85,
-      "timestamp": "2026-10-09T15:13:32.083Z"
+      "timestamp": "2026-10-10T14:28:44.454Z"
     }
   ]
 }
