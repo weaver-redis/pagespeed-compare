@@ -5,28 +5,28 @@
   "accessibility": 99,
   "bestPractices": 74,
   "seo": 92,
-  "timestamp": "2026-11-08T14:54:08.603Z",
+  "timestamp": "2026-11-10T16:13:17.990Z",
   "rawResults": [
     {
-      "performance": 36,
+      "performance": 35,
       "accessibility": 99,
       "bestPractices": 74,
       "seo": 92,
-      "timestamp": "2026-11-08T14:51:50.508Z"
-    },
-    {
-      "performance": 34,
-      "accessibility": 99,
-      "bestPractices": 74,
-      "seo": 92,
-      "timestamp": "2026-11-08T14:52:59.598Z"
+      "timestamp": "2026-11-10T16:10:59.352Z"
     },
     {
       "performance": 35,
       "accessibility": 99,
       "bestPractices": 74,
       "seo": 92,
-      "timestamp": "2026-11-08T14:54:08.603Z"
+      "timestamp": "2026-11-10T16:12:08.907Z"
+    },
+    {
+      "performance": 36,
+      "accessibility": 99,
+      "bestPractices": 74,
+      "seo": 92,
+      "timestamp": "2026-11-10T16:13:17.990Z"
     }
   ]
 }
