@@ -1,32 +1,32 @@
 {
   "url": "https://redis.io/pricing/",
   "runs": 3,
-  "performance": 35,
+  "performance": 31,
   "accessibility": 96,
   "bestPractices": 74,
   "seo": 92,
-  "timestamp": "2026-11-21T16:02:22.170Z",
+  "timestamp": "2026-11-22T16:04:48.771Z",
   "rawResults": [
     {
-      "performance": 35,
+      "performance": 32,
       "accessibility": 96,
       "bestPractices": 74,
       "seo": 92,
-      "timestamp": "2026-11-21T16:01:45.983Z"
+      "timestamp": "2026-11-22T16:04:05.023Z"
     },
     {
-      "performance": 35,
+      "performance": 30,
       "accessibility": 96,
       "bestPractices": 74,
       "seo": 92,
-      "timestamp": "2026-11-21T16:02:04.070Z"
+      "timestamp": "2026-11-22T16:04:27.334Z"
     },
     {
-      "performance": 34,
+      "performance": 32,
       "accessibility": 96,
       "bestPractices": 74,
       "seo": 92,
-      "timestamp": "2026-11-21T16:02:22.170Z"
+      "timestamp": "2026-11-22T16:04:48.771Z"
     }
   ]
 }
